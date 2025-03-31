@@ -1,4 +1,4 @@
-# SwaggerExamples
+# ChrisMavrommatis.SwaggerExamples
 
 Welcome to the `ChrisMavrommatis.SwaggerExamples` repository. This project provides a solution for generating Swagger examples in C#, aimed at enriching API documentation and enhancing usability for developers and API designers.
 

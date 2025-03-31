@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwaggerExamples", "src\SwaggerExamples\SwaggerExamples.csproj", "{630BB47F-B4FC-4045-A588-3F6462D502AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMavrommatis.SwaggerExamples", "src\ChrisMavrommatis.SwaggerExamples\ChrisMavrommatis.SwaggerExamples.csproj", "{630BB47F-B4FC-4045-A588-3F6462D502AD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C6E32E07-1B19-4B5E-8F8D-F810D31A8C68}"
 EndProject

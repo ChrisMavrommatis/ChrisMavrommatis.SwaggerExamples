@@ -8,9 +8,9 @@
 		<Title>ChrisMavrommatis.SwaggerExamples</Title>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Authors>Chris Mavrommatis</Authors>
-		<PackageProjectUrl>https://github.com/ChrisMavrommatis/SwaggerExamples</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/ChrisMavrommatis/SwaggerExamples</RepositoryUrl>
-		<Version>2.0.1</Version>
+		<PackageProjectUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.SwaggerExamples</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.SwaggerExamples</RepositoryUrl>
+		<Version>2.0.2</Version>
 		<PackageIcon>package-icon.png</PackageIcon>
 		<AssemblyName>ChrisMavrommatis.SwaggerExamples</AssemblyName>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
@@ -29,8 +29,8 @@
 		<None Include="..\..\package-icon.png" Pack="true" PackagePath="\" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Microsoft.OpenApi" Version="1.6.22" />
-		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="7.0.0" />
-		<PackageReference Include="Microsoft.Extensions.Options" Version="9.0.0" />
+		<PackageReference Include="Microsoft.OpenApi" Version="1.6.23" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="8.1.0" />
+		<PackageReference Include="Microsoft.Extensions.Options" Version="9.0.3" />
 	</ItemGroup>
 </Project>
